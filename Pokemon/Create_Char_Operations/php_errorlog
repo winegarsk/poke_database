@@ -1,0 +1,47 @@
+[06-Apr-2018 10:22:07 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 8
+[06-Apr-2018 10:23:16 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 8
+[06-Apr-2018 10:23:22 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 8
+[06-Apr-2018 10:25:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 16
+[06-Apr-2018 10:28:34 CST6CDT] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 9
+[06-Apr-2018 10:29:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function myquery() in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 13
+[15-Apr-2018 13:59:35 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 19
+[15-Apr-2018 14:00:05 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 20
+[15-Apr-2018 14:00:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function myquery() in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 10
+[15-Apr-2018 14:13:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 12
+[15-Apr-2018 14:13:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 12
+[15-Apr-2018 14:15:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 12
+[15-Apr-2018 14:35:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function call addTrainer('sfdf','sffsdfdf','4','4',@x)() in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 10
+[15-Apr-2018 14:36:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function call addTrainer('sfdf','sffsdfdf','4','4',@x)() in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 10
+[15-Apr-2018 14:50:49 CST6CDT] PHP Parse error:  syntax error, unexpected '"')"' (T_CONSTANT_ENCAPSED_STRING) in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/addTrainerSvr.php on line 8
+[15-Apr-2018 18:57:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/trainer_on_city.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/trainer_on_city.php on line 13
+[15-Apr-2018 18:57:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/trainer_on_city.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/sarahw33/public_html/Pokemon/Create_Char_Operations/trainer_on_city.php on line 16

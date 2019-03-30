@@ -1,0 +1,151 @@
+/*---------------------------------------------------------------*/
+/*----------------Pokedex_Frontend_Design CSS--------------------*/
+/*---------------------------------------------------------------*/
+@font-face {
+    font-family: 'poke_text';
+    src: url('Pokemon Solid.ttf');
+}
+
+.container1 {
+	max-width: 700px;
+    margin: auto;
+    background: url('poke_giphy.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    box-shadow: 20px 20px 20px #888888;
+	
+	
+}
+
+.container1 h1 {
+	font-family: poke_text;
+	font-size: 75px; 
+	text-align: center; 
+	color: yellow;
+	-webkit-text-stroke: 3px #09419b;
+	letter-spacing: 5px;
+	position: 70%;
+	padding-top: 30px;
+}
+
+.container1 h2 {
+	text-align: center; 
+	font-size: 30px; 
+	font-family: helvetica;
+	color: white; 
+
+
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    background-color: #09419b; 
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-family: helvetica; 
+
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+/* Front page audio css */
+.centerplayer {  
+margin-right: auto;  
+margin-left: auto;  
+}
+/*---------------------------------------------------------------*/
+/*------------------------END FRONT PAGE-------------------------*/
+/*---------------------------------------------------------------*/
+
+
+
+
+/*---------------------------------------------------------------*/
+/*-------------------LISTPOKEMON.PHP STYLES----------------------*/
+/*---------------------------------------------------------------*/
+#Pokemon {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#Pokemon td, #Pokemon th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#Pokemon tr:nth-child(even){background-color: #f2f2f2;}
+
+#Pokemon tr:hover {background-color: #ddd;}
+
+#Pokemon th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.list_container {
+    max-width: 700px;
+    margin: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    box-shadow: 20px 20px 20px #888888;
+	
+	
+}
+/*---------------------------------------------------------------*/
+/*------------------------END LISTPOKEMON.PHP--------------------*/
+/*---------------------------------------------------------------*/
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+[04-Feb-2018 23:07:10 CST6CDT] PHP Parse error:  syntax error, unexpected 'pokemon' (T_STRING) in /home/sarahw33/public_html/Pokemon/dbconnect.php on line 11
+[04-Feb-2018 23:07:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'Pokemon' (T_STRING) in /home/sarahw33/public_html/Pokemon/dbconnect.php on line 11
+[04-Feb-2018 23:07:48 CST6CDT] PHP Parse error:  syntax error, unexpected 'Pokemon' (T_STRING) in /home/sarahw33/public_html/Pokemon/dbconnect.php on line 11
+[04-Feb-2018 23:08:14 CST6CDT] PHP Parse error:  syntax error, unexpected 'Pokemon' (T_STRING) in /home/sarahw33/public_html/Pokemon/dbconnect.php on line 11
+[09-Feb-2018 14:35:25 CST6CDT] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/sarahw33/public_html/Pokemon/edtPokemonSrv.php on line 9
+[09-Feb-2018 14:35:28 CST6CDT] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/sarahw33/public_html/Pokemon/edtPokemonSrv.php on line 9
+[09-Feb-2018 14:37:44 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/sarahw33/public_html/Pokemon/edtPokemonSrv.php on line 14
+[09-Feb-2018 14:39:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/sarahw33/public_html/Pokemon/edtPokemonSrv.php on line 14
+[09-Feb-2018 14:43:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/sarahw33/public_html/Pokemon/edtPokemonSrv.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sarahw33/public_html/Pokemon/edtPokemonSrv.php on line 6
+[11-Feb-2018 10:05:34 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/sarahw33/public_html/Pokemon/edtPokemonClt.php on line 19

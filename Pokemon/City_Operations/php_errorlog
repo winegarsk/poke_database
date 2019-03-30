@@ -1,0 +1,4 @@
+[03-Apr-2018 10:37:35 CST6CDT] PHP Parse error:  syntax error, unexpected ''City'' (T_CONSTANT_ENCAPSED_STRING) in /home/sarahw33/public_html/Pokemon/City_Operations/delCitySrv.php on line 4
+[03-Apr-2018 10:38:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'City' (T_STRING) in /home/sarahw33/public_html/Pokemon/City_Operations/delCitySrv.php on line 4
+[03-Apr-2018 10:39:12 CST6CDT] PHP Parse error:  syntax error, unexpected ''City'' (T_CONSTANT_ENCAPSED_STRING) in /home/sarahw33/public_html/Pokemon/City_Operations/delCitySrv.php on line 4
+[03-Apr-2018 19:59:13 CST6CDT] PHP Parse error:  syntax error, unexpected ''City'' (T_CONSTANT_ENCAPSED_STRING) in /home/sarahw33/public_html/Pokemon/City_Operations/delCitySrv.php on line 4

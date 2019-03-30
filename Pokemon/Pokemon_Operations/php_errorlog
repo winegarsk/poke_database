@@ -1,0 +1,10 @@
+[25-Feb-2018 11:59:57 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/sarahw33/public_html/Pokemon/Pokemon_Operations/listPokemon.php on line 12
+[25-Feb-2018 12:00:19 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/sarahw33/public_html/Pokemon/Pokemon_Operations/listPokemon.php on line 12
+[25-Feb-2018 12:00:21 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/sarahw33/public_html/Pokemon/Pokemon_Operations/listPokemon.php on line 12
+[25-Feb-2018 12:00:52 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/sarahw33/public_html/Pokemon/Pokemon_Operations/listPokemon.php on line 12
+[25-Feb-2018 12:01:19 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/sarahw33/public_html/Pokemon/Pokemon_Operations/listPokemon.php on line 12
+[25-Feb-2018 12:03:24 CST6CDT] PHP Fatal error:  require(): Failed opening required 'dbconnect.php' (include_path='.:/usr/local/php70/pear') in /home/sarahw33/public_html/Pokemon/Pokemon_Operations/listPokemon.php on line 2
+[01-Mar-2018 14:24:46 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/sarahw33/public_html/Pokemon/Pokemon_Operations/listPokemon.php on line 10
+[01-Mar-2018 14:25:46 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/sarahw33/public_html/Pokemon/Pokemon_Operations/listPokemon.php on line 10
+[01-Mar-2018 14:26:39 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/sarahw33/public_html/Pokemon/Pokemon_Operations/listPokemon.php on line 10
+[05-Apr-2018 16:04:48 CST6CDT] PHP Parse error:  syntax error, unexpected 'w3' (T_STRING), expecting ',' or ';' in /home/sarahw33/public_html/Pokemon/Pokemon_Operations/listPokemon.php on line 37
